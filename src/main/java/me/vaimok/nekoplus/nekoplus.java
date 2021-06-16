@@ -163,7 +163,6 @@ class nekoplus {
     public
     void preInit ( FMLPreInitializationEvent event ) {
         new Tracker ();
-        Verify();
     }
 
     public void Verify(){
