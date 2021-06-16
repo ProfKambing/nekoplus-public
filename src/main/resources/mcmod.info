@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "Neko+",
+    "name": "Neko+",
+    "description": "for minecraft 1.12.2",
+    "version": "0.4",
+    "mcversion": "1.12.2",
+	"logoFile": "nekoplus.png",
+    "url": "https://femboy.site/neko",
+    "updateUrl": "https://femboy.site/neko",
+    "authorList": ["Vaimok, rTe_ , Trambled, Momin And Leon"],
+    "screenshots": ["nekoplus.png"],
+    "dependencies": []
+  }
+]
